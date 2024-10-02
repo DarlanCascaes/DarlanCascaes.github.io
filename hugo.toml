@@ -1,0 +1,4 @@
+baseURL = 'https://agotenas.org/'
+languageCode = 'pt-br'
+title = 'Agotenas'
+theme = 'shadocs'
